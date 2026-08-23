@@ -1,0 +1,15 @@
+arXiv_scientific_dataset.csv
+arxiv_cleaned_full.csv
+arxiv_cleaned_capped.csv
+.venv
+bert_run_0  
+bert_run_1 
+bert_run_2
+class_weight_dict.joblib
+label_encoder.joblib
+saved_models
+test_df.csv
+tmp_trainer
+train_df.csv
+tuning_log.csv
+val_df.csv

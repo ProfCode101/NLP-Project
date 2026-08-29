@@ -11,5 +11,4 @@ saved_models
 test_df.csv
 tmp_trainer
 train_df.csv
-tuning_log.csv
 val_df.csv
